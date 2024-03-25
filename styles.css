@@ -1,1 +1,48 @@
+body {
+    margin: 0;
+}
 
+/* HEADER STYLING */
+header {
+    background-color: #66604A;
+    padding: 0 0 20px 0;
+    margin: 0;
+}
+
+.heading-text {
+    font-family: Markazi Text;
+    color: white;
+    letter-spacing: 2px;
+    margin-top: 0px;
+    text-align: center;
+    margin-bottom: 0px;
+    font-weight: 500;
+    font-size: 80px;
+}
+
+.titles {
+    font-family: Markazi Text;
+    color: white;
+    letter-spacing: 2px;
+    margin-top: 0px;
+    font-weight: 400;
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 12px;
+    margin-top: -10px;
+}
+header > hr {
+    width: 150px;
+    padding: 0;
+}
+
+.header-date {
+    text-align: center;
+    font-family: Mukta;
+    font-size: 26px;
+    color: white;
+    font-weight: 400;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
